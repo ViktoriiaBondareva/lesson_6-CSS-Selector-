@@ -1,0 +1,91 @@
+html, body {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container {
+    max-width: 970px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nav {
+    padding: 28px 0;
+    border-bottom: 1px solid #828282;
+}
+
+ul {
+    margin: 0;
+    padding-left: 0;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color:  #828282;
+}
+
+a:hover {
+    color: #070707;
+
+}
+main {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: left;
+}
+.img {
+    margin-top: 50px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.title2 {
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.about_me, .portfolio {
+    background: #e5e5e5;
+}
+
+.title {
+    max-width: 480px;
+}
+
+button {
+    border-radius: 22px;
+    background: #070707;
+    border: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 16px;
+    width: 180px;
+    height: 44px;
+}
+
