@@ -89,3 +89,11 @@ button {
     height: 44px;
 }
 
+.skills {
+    display: inline-block;
+    width: calc(25% - 64px);
+    text-align: center;
+    background: none;
+    padding: 20px 10px;
+    margin: 0 20px;
+}
